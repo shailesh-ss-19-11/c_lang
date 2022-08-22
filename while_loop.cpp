@@ -24,4 +24,4 @@ int main(){
     printf("%d\n",count);
 }
 
-// 10 20 30 gretest number 
+// 10 20 30 gretest number is
