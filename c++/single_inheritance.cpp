@@ -18,10 +18,8 @@ class Derived : public Base{
 
 int main(){
     Derived emp1;
-    Base b2;
+    
     cout<< "your salary is :"<< emp1.salary<<endl;
     cout<< "your Bonus is :"<< emp1.bonus<<endl;
-    cout<< "your b2 is :"<< b2.salary<<endl;
-    
     emp1.sum();
 }
